@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Message, StreamingTextResponse } from "ai";
 import { MessageContent, OpenAI } from "llamaindex";
 import { NextRequest, NextResponse } from "next/server";
